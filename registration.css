@@ -1,0 +1,12 @@
+.bar{
+    background-color: rgb(10, 133, 155);
+    width: 9000px;
+    height: 30px;
+    overflow: hidden;
+    
+}
+
+body{
+    overflow-x: hidden;
+}
+
